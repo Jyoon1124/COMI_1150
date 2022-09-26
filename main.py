@@ -16,3 +16,4 @@
 #print(f'{num2:d}')
 
 #Magic numbers
+

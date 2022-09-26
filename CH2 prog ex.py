@@ -75,3 +75,4 @@ percent_of_male = (number_of_male / total_number_of_student) * 100
 percent_of_female = (number_of_female / total_number_of_student) * 100
 print(percent_of_male, "%")
 print(percent_of_female, "%")
+
