@@ -53,12 +53,12 @@
 # print(num)
 
 #Question 10
-rounded_value = 0.02
-print(f"{rounded_value:.2f}")
+#rounded_value = 0.02
+#print(f"{rounded_value:.2f}")
 
 #Question 11
-number = 1234567.456
-print(f"{number:,}")
+#number = 1234567.456
+#print(f"{number:,}")
 
 #Question 12
-print('George', 'John', 'Paul', 'Ringo', sep='@')
+#print('George', 'John', 'Paul', 'Ringo', sep='@')
